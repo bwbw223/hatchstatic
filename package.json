@@ -1,0 +1,18 @@
+{
+  "name": "hatchstatic",
+  "version": "0.0.1",
+  "description": "A static site generator",
+  "main": "index.js",
+  "bin": {
+    "hatchstatic": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bwbw223",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "toml": "^2.3.2",
+    "yargs": "^8.0.2"
+  }
+}
